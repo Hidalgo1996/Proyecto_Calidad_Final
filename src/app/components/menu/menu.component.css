@@ -1,0 +1,7 @@
+nav{
+    padding: 1% 2%;
+}
+.boton_salir.right{
+    float: right;
+    background:red
+}
